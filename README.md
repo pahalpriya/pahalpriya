@@ -38,3 +38,22 @@
 
 <hr>
 <h3 align="left"> Some of my stats 📊:</h3>
+ 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahalpriya&langs_count=8&show_icons=true&locale=en&theme=midnight-purple" alt="pahalpriya" /></p>
+
+<p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pahalpriya&show_icons=true&theme=midnight-purple" alt="pahalpriya" /></p>
+
+<p>&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pahalpriya&theme=midnight-purple" alt="pahalpriya" /></p>
+
+
+<p> &nbsp;&nbsp;&nbsp;<img scr="https://github-readme-stats.vercel.app/api/pin/?username=pahalpriya&repo=https://github.com/pahalpriya/myportfolio"> </p> 
+ 
+ <hr>
+ <br>
+ <br>
+ <br>
+ <br>
+ <p>
+  <i>“Ruby is rubbish! PHP is phpantastic!”</i>
+  <i> – Nikita Popov</i>
+ </p>
